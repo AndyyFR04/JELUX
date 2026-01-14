@@ -1,0 +1,2 @@
+# JELUX
+Proyecto sencillo escolar
